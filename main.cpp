@@ -2,6 +2,7 @@
 using namespace std;
 int main() {
     cout<<"Hello World!"<<endl;
+    cout<<"fck osos" <<endl;
 }
 
 // TIP See CLion help at <a
