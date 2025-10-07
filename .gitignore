@@ -1,0 +1,11 @@
+# CLion and JetBrains IDE files
+.idea/
+
+# CMake build directories
+cmake-build-debug/
+cmake-build-release/
+
+# CMake configuration files (اختياري)
+CMakeLists.txt
+CMakeCache.txt
+CMakeFiles/
