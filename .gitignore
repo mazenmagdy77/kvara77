@@ -9,4 +9,11 @@ cmake-build-release/
 CMakeLists.txt
 CMakeCache.txt
 CMakeFiles/
+*.iml
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 .vs/
+MAzen project/
+x64/
